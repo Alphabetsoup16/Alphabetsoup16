@@ -1,7 +1,7 @@
 ### Hi everyone 👋
 
 - ⚡ My name is Spencer and I am a Software Engineer from the Metro Detroit Area 
-- 🔭 I’m currently working on developing my skills as a C#/.Net Software Engineer.
+- 🔭 I’m currently working on developing my skills in C#/.Net.
 - 🌱 I’m currently learning Python, TypeScript, Terraform, and more. 
 <!--
 
