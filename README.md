@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 
 ### My GitHub Stats:
-<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Alphabetsoup16&show_icons=true&theme=monokai&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=Alphabetsoup16&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></p>
+<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Alphabetsoup16&show_icons=true&theme=monokai&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphabetsoup16&theme=merko&layout=compact&hide_langs_below=1" /></p>
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
