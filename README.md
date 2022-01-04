@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alphabetsoup16&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 As seen by:  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
